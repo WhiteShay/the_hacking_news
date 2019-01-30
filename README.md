@@ -1,6 +1,8 @@
 # README
 
-Projet de Bourouis Nora et NASSRI Hamdi:
+  J'ai laissé tombé l'idée de le modif, découragement, fatigue. T-T
+
+Projet de Bourouis Nora et NASSRI Hamdi: À la base
 
 Le projet contient 4 tables: users, link, comment et secondarycomment.
 Dans la table user, on a le nom de l'utilisateur et son id.
